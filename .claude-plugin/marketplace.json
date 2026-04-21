@@ -1,0 +1,18 @@
+{
+  "name": "happyprime",
+  "owner": {
+    "name": "Happy Prime",
+    "url": "https://happyprime.co"
+  },
+  "description": "Happy Prime's marketplace of Claude Code plugins.",
+  "plugins": [
+    {
+      "name": "agent-skills",
+      "source": ".",
+      "description": "A collection of agent skills, starting with a WordPress code-audit workflow.",
+      "version": "0.1.0",
+      "category": "development",
+      "keywords": ["wordpress", "audit", "code-review", "skills"]
+    }
+  ]
+}
