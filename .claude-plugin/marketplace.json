@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "agent-skills",
-      "source": ".",
+      "source": "./",
       "description": "A collection of agent skills, starting with a WordPress code-audit workflow.",
       "version": "0.1.0",
       "category": "development",
