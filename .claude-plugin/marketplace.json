@@ -9,8 +9,8 @@
     {
       "name": "agent-skills",
       "source": "./",
-      "description": "A collection of agent skills, starting with a WordPress code-audit workflow.",
-      "version": "0.1.0",
+      "description": "A collection of agent skills covering WordPress code audits and GitHub issue creation.",
+      "version": "0.2.0",
       "category": "development",
       "keywords": ["wordpress", "audit", "code-review", "skills"]
     }
