@@ -10,7 +10,7 @@
       "name": "agent-skills",
       "source": "./",
       "description": "A collection of agent skills covering WordPress code audits and GitHub issue creation.",
-      "version": "0.2.0",
+      "version": "0.3.0",
       "category": "development",
       "keywords": ["wordpress", "audit", "code-review", "skills"]
     }

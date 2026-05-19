@@ -1,7 +1,7 @@
 {
   "name": "agent-skills",
   "description": "Happy Prime's collection of agent skills for Claude Code.",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "author": {
     "name": "Happy Prime",
     "url": "https://happyprime.co"
